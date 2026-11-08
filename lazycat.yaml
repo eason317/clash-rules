@@ -26,7 +26,7 @@ payload:
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,cerebras.ai
   - DOMAIN-SUFFIX,chat.com
-  - DOMAIN-SUFFIX,chatbot
+  - DOMAIN-KEYWORD,chatbot
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
@@ -38,7 +38,6 @@ payload:
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.app
-  - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.dev
   - DOMAIN-SUFFIX,claude.new
   - DOMAIN-SUFFIX,claude.site
