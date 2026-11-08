@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,accounts.google.com
   - DOMAIN-SUFFIX,agentclientprotocol.com
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,ai.studio
@@ -23,10 +24,8 @@ payload:
   - DOMAIN-SUFFIX,arena.ai
   - DOMAIN-SUFFIX,artificialanalysis.ai
   - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,cerebras.ai
   - DOMAIN-SUFFIX,chat.com
-  - DOMAIN-KEYWORD,chatbot
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
@@ -63,10 +62,7 @@ payload:
   - DOMAIN-SUFFIX,comfyregistry.org
   - DOMAIN-SUFFIX,commandcode.ai
   - DOMAIN-SUFFIX,context7.com
-  - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
   - DOMAIN-SUFFIX,copilot-stg.com
-  - DOMAIN-SUFFIX,copilot-telemetry-service.githubusercontent.com
-  - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
   - DOMAIN-SUFFIX,copilot-workspace.githubnext.com
   - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
@@ -99,7 +95,6 @@ payload:
   - DOMAIN-SUFFIX,envatousercontent.com
   - DOMAIN-SUFFIX,flow.google
   - DOMAIN-SUFFIX,flow.google.com
-  - DOMAIN-SUFFIX,gateway.ai.cloudflare.com
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
@@ -108,11 +103,12 @@ payload:
   - DOMAIN-SUFFIX,geminiweb-pa.clients6.google.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,grazie.ai
   - DOMAIN-SUFFIX,grazie.aws.intellij.net
   - DOMAIN-SUFFIX,grok.com
-  - DOMAIN-SUFFIX,grok.x.com
   - DOMAIN-SUFFIX,grokbot.com
   - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,groq.com
@@ -120,7 +116,6 @@ payload:
   - DOMAIN-SUFFIX,hf.co
   - DOMAIN-SUFFIX,hf.space
   - DOMAIN-SUFFIX,host.livekit.cloud
-  - DOMAIN-SUFFIX,http-intake.logs.us5.datadoghq.com
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,jasper.ai
   - DOMAIN-SUFFIX,jetbrains.ai
@@ -132,10 +127,8 @@ payload:
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
   - DOMAIN-SUFFIX,langchain.com
-  - DOMAIN-SUFFIX,liveperson.net
   - DOMAIN-SUFFIX,lmstudio.ai
   - DOMAIN-SUFFIX,lovart.ai
-  - DOMAIN-SUFFIX,lpsnmedia.net
   - DOMAIN-SUFFIX,magnific.com
   - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,manus.im
@@ -159,8 +152,6 @@ payload:
   - DOMAIN-SUFFIX,notegpt.io
   - DOMAIN-SUFFIX,nousresearch.com
   - DOMAIN-SUFFIX,novelai.net
-  - DOMAIN-SUFFIX,o1158394.ingest.us.sentry.io
-  - DOMAIN-SUFFIX,o33249.ingest.sentry.io
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
@@ -168,7 +159,6 @@ payload:
   - DOMAIN-SUFFIX,opal.google
   - DOMAIN-SUFFIX,opal.google.com
   - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,openai.org
   - DOMAIN-SUFFIX,openai.qualtrics.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
@@ -222,17 +212,12 @@ payload:
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,animetox.com
-  - DOMAIN-SUFFIX,api-common01.cygames.jp
-  - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
-  - DOMAIN-SUFFIX,api.myip.com
-  - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,bamgrid.com
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,candfans.jp
   - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,cdninstagram.com
-  - DOMAIN-SUFFIX,cfargotunnel.com
   - DOMAIN-SUFFIX,check.place
   - DOMAIN-SUFFIX,checkip.amazonaws.com
   - DOMAIN-SUFFIX,cip.cc
@@ -322,7 +307,6 @@ payload:
   - DOMAIN-SUFFIX,hbo.com
   - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hbomaxcdn.com
-  - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,hnt.co.jp
   - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,hulu.com
@@ -335,7 +319,6 @@ payload:
   - DOMAIN-SUFFIX,ifconfig.me
   - DOMAIN-SUFFIX,imagedelivery.net
   - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,ip.net.coffee
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ip.skk.moe
@@ -371,7 +354,6 @@ payload:
   - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,mist-train-girls.azurefd.net
   - DOMAIN-SUFFIX,mist-train-girls.com
-  - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,muvluv-girls-garden.com
   - DOMAIN-SUFFIX,myip.com
   - DOMAIN-SUFFIX,netflix.com
@@ -389,14 +371,12 @@ payload:
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,peacocktv.com
   - DOMAIN-SUFFIX,peacocktv.net
-  - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,ping0.cc
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pplusstatic.com
   - DOMAIN-SUFFIX,priconne-redive.jp
   - DOMAIN-SUFFIX,primevideo.com
-  - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,r2.dev
   - DOMAIN-SUFFIX,rath.work
   - DOMAIN-SUFFIX,reimu.net
@@ -425,7 +405,6 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.us
   - DOMAIN-SUFFIX,toranoana.jp
-  - DOMAIN-SUFFIX,trycloudflare.com
   - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,tweetdeck.com
   - DOMAIN-SUFFIX,twimg.com
@@ -452,6 +431,8 @@ payload:
   - DOMAIN-SUFFIX,vrv.co
   - DOMAIN-SUFFIX,warau.jp
   - DOMAIN-SUFFIX,warp.plus
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,whatismyipaddress.com
   - DOMAIN-SUFFIX,workers.dev
