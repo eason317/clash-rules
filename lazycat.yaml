@@ -218,9 +218,11 @@ payload:
   - DOMAIN-SUFFIX,youmind.site
   - DOMAIN-SUFFIX,abema.tv
   - DOMAIN-SUFFIX,abuseipdb.com
+  - DOMAIN-SUFFIX,acg.gy
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,amazonvideo.com
+  - DOMAIN-SUFFIX,animetox.com
   - DOMAIN-SUFFIX,api-common01.cygames.jp
   - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
   - DOMAIN-SUFFIX,api.myip.com
@@ -228,6 +230,7 @@ payload:
   - DOMAIN-SUFFIX,bamgrid.com
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,candfans.jp
   - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,cfargotunnel.com
@@ -299,16 +302,30 @@ payload:
   - DOMAIN-SUFFIX,dmmgames.com
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,ehwiki.org
+  - DOMAIN-SUFFIX,exhentai.org
   - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fanbox.cc
+  - DOMAIN-SUFFIX,fandom.com
+  - DOMAIN-SUFFIX,fantia.jp
+  - DOMAIN-SUFFIX,fanza.jp
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,fbsbx.com
+  - DOMAIN-SUFFIX,gamebanana.com
+  - DOMAIN-SUFFIX,gamers.co.jp
   - DOMAIN-SUFFIX,geoip.com
+  - DOMAIN-SUFFIX,getchu.com
   - DOMAIN-SUFFIX,girlscreation-r.com
+  - DOMAIN-SUFFIX,gumroad.com
   - DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
+  - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,hbo.com
   - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,hnt.co.jp
+  - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,hulu.com
   - DOMAIN-SUFFIX,huluim.com
   - DOMAIN-SUFFIX,hulustream.com
@@ -346,10 +363,13 @@ payload:
   - DOMAIN-SUFFIX,ipwho.is
   - DOMAIN-SUFFIX,ipwhois.io
   - DOMAIN-SUFFIX,jtvnw.net
+  - DOMAIN-SUFFIX,kemono.cr
   - DOMAIN-SUFFIX,kick.com
   - DOMAIN-SUFFIX,koihimetaisen.com
+  - DOMAIN-SUFFIX,level-plus.net
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,maxmind.com
+  - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,mist-train-girls.azurefd.net
   - DOMAIN-SUFFIX,mist-train-girls.com
   - DOMAIN-SUFFIX,musical.ly
@@ -362,21 +382,28 @@ payload:
   - DOMAIN-SUFFIX,nflximg.net
   - DOMAIN-SUFFIX,nflxso.net
   - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN-SUFFIX,nhentai.net
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,one.one.one
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,paramountplus.com
+  - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,peacocktv.com
   - DOMAIN-SUFFIX,peacocktv.net
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,ping0.cc
+  - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pplusstatic.com
   - DOMAIN-SUFFIX,priconne-redive.jp
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,pscp.tv
-- DOMAIN-SUFFIX,r2.dev
+  - DOMAIN-SUFFIX,r2.dev
+  - DOMAIN-SUFFIX,rath.work
+  - DOMAIN-SUFFIX,reimu.net
   - DOMAIN-SUFFIX,scamalytics.com
   - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,seiya-saiga.com
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,spotifycdn.net
@@ -398,6 +425,7 @@ payload:
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,toranoana.jp
   - DOMAIN-SUFFIX,trycloudflare.com
   - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,tweetdeck.com
@@ -421,7 +449,9 @@ payload:
   - DOMAIN-SUFFIX,tx.me
   - DOMAIN-SUFFIX,usercontent.dev
   - DOMAIN-SUFFIX,videodelivery.net
+  - DOMAIN-SUFFIX,vndb.org
   - DOMAIN-SUFFIX,vrv.co
+  - DOMAIN-SUFFIX,warau.jp
   - DOMAIN-SUFFIX,warp.plus
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,whatismyipaddress.com
